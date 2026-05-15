@@ -57,10 +57,15 @@ O aplicativo foi desenvolvido seguindo boas práticas de organização e escalab
 
 lib/
 ├── data/
+
 ├── models/
+
 ├── screens/
+
 ├── theme/
+
 ├── widgets/
+
 └── main.dart
 
 Principais conceitos utilizados:
