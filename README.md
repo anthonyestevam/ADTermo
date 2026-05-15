@@ -101,7 +101,7 @@ Caso deseje apenas testar o aplicativo, é possível instalar diretamente o APK 
 
 ```bash
 git clone https://github.com/anthonyestevam/ADTermo.git
-cd ad-termo
+cd ADTermo
 flutter pub get
 flutter run
 
