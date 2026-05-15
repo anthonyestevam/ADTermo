@@ -56,6 +56,7 @@ O aplicativo permite que o usuário identifique rapidamente o medicamento e rece
 O aplicativo foi desenvolvido seguindo boas práticas de organização e escalabilidade:
 
 lib/
+
 ├── data/
 
 ├── models/
