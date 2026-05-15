@@ -4,9 +4,11 @@ Aplicativo mobile desenvolvido em **Flutter** para auxiliar no **manuseio seguro
 
 ## 🧩 Caso de Uso Real
 
-O **Ad Termo** foi desenvolvido como uma solução prática voltada para estudantes da área da saúde, sendo utilizado como ferramenta de apoio em apresentações acadêmicas e orientação sobre medicamentos termolábeis.
+O **Ad Termo** foi desenvolvido como uma solução mobile sob demanda, destinada ao apoio educacional na área da saúde.
 
-O aplicativo foi comercializado para utilização educacional, demonstrando aplicação real em ambiente acadêmico.
+A aplicação foi **comercializada para estudantes universitários**, sendo utilizada como ferramenta auxiliar em apresentações acadêmicas e orientação sobre o correto manejo de medicamentos termolábeis.
+
+O projeto envolveu desde o levantamento de requisitos até a entrega final do aplicativo funcional para os usuários.
 ---
 
 ## 📌 Sobre o Projeto
